@@ -1,7 +1,7 @@
 # tcd-group-competition-team69
 
-1.spandana
-2.rajath
+1.Spandana Banala
+2.Rajat Gogna
 
 
 INCOME PREDICTION
